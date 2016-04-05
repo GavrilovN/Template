@@ -1,1 +1,1 @@
-# Template
+# Проверено для Double'а
